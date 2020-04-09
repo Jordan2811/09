@@ -1,0 +1,19 @@
+.container div {
+    height: 3em;
+}
+
+.gris {
+    background-color: #333333;
+}
+
+.orange {
+    background-color: #ff7f2a;
+}
+
+.jaune {
+    background-color: #ffcc00;
+}
+
+.noir {
+    background-color: #000000;
+}
